@@ -1,0 +1,24 @@
+{
+  "name": "corporate-website-bootstrap5-with-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch scss/index.scss:css/style.css"
+  },
+  "keywords": [
+    "bootstrap-5-with-sass"
+  ],
+  "author": "shahjalal",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.66.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "autoprefixer": "^10.4.15",
+    "bootstrap": "^5.3.1",
+    "postcss": "^8.4.29",
+    "postcss-cli": "^10.1.0"
+  }
+}

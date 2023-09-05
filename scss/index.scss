@@ -1,0 +1,13 @@
+@use "custom";
+@use "navbar";
+@use "hero";
+@use "feature";
+// importing core styling file
+
+.test {
+  color: wheat;
+}
+
+.extra-margin {
+  margin-top: 80px;
+}
